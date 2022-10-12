@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\Code_files\hackerrank_solutions\time_conv\time_conv\bin\Debug\time_conv.exe.config
+C:\Users\pc\Desktop\Code_files\hackerrank_solutions\time_conv\time_conv\bin\Debug\time_conv.exe
+C:\Users\pc\Desktop\Code_files\hackerrank_solutions\time_conv\time_conv\bin\Debug\time_conv.pdb
+C:\Users\pc\Desktop\Code_files\hackerrank_solutions\time_conv\time_conv\obj\Debug\time_conv.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Code_files\hackerrank_solutions\time_conv\time_conv\obj\Debug\time_conv.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Code_files\hackerrank_solutions\time_conv\time_conv\obj\Debug\time_conv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Code_files\hackerrank_solutions\time_conv\time_conv\obj\Debug\time_conv.exe
+C:\Users\pc\Desktop\Code_files\hackerrank_solutions\time_conv\time_conv\obj\Debug\time_conv.pdb
